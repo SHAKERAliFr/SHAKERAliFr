@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi there, I'm Ali <br><br>
- 🌱 Junior full stack dev, learning at O'clock 🏫🕘</h1><br>
+ 🌱 Junior full stack dev, learning at O'clock 🏫</h1><br>
 
 <p align="center"> <strong>technologies used :</strong><br><br>
   <img src="https://github.com/SHAKERAliFr/SHAKERAliFr/blob/main/wp.png" alt="WordPress" height="40" width="40" style="margin-right: 20px"/>
