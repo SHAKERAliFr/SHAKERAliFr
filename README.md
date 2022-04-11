@@ -1,6 +1,7 @@
+<h1 align="center"> 👋 Hi there, I'm Ali <br><br>
+ 🌱 Junior full stack dev, learning at O'clock 🏫🕘</h1><br>
 
-<h1 align="center">technologies used</h1>
-<p align="center">
+<p align="center"> <strong>technologies used :</strong><br><br>
   <img src="https://github.com/SHAKERAliFr/SHAKERAliFr/blob/main/wp.png" alt="WordPress" height="40" width="40" style="margin-right: 20px"/>
   <strong>WordPress &nbsp;</strong>
   <img src="https://github.com/SHAKERAliFr/SHAKERAliFr/blob/main/vueJs.png" alt="VueJs" height="38" width="40" style="margin-right: 20px"/>
